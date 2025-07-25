@@ -35,8 +35,6 @@ Me chamo Jonatas Miguel, nasci em 2002 e sou natural de Salvador Bahia. Atualmen
 
 
 
-<br><br><br>
-
 ### 🤖 Linguagens e Tecnologias de domínio:
 
 <img 
