@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jonatas Miguel, nasci em 2002 e sou natural de Salvador Bahia. Atualmente, estou cursando engenharia de softiware na ESTACIO DE SÁ. Trabalho com tecnologia desde os 16 anos de idade, e compartilho meu conhecimento através das minhas redes sociais(Link na bio), onde desenvolvo projetos web usando as as ferramentas tecnológicas necessárias, crio inteligencia artificial, faço deploy de sites responsivos e muito mais. Confira:
+Me chamo Jonatas Miguel, nasci em 2002 e sou natural de Salvador Bahia. Atualmente, estou cursando engenharia de software na ESTACIO DE SÁ. Trabalho com tecnologia desde os 16 anos de idade, e compartilho meu conhecimento através das minhas redes sociais(Link na bio), onde desenvolvo projetos web usando as as ferramentas tecnológicas necessárias, crio inteligencia artificial, faço deploy de sites responsivos e muito mais. Confira:
 "([](https://www.instagram.com/miguel.santos_9_?igsh=NTlvc2kwa3p1bXpi))", 
 
 <p text-align="left">
